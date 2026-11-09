@@ -9,5 +9,4 @@
 This repository contains the Task Manager web application built with HTML, CSS, and JavaScript, integrated with a Supabase PostgreSQL database via its REST API.
 
 ## Team Collaboration (Part B Links)
-* **Partner PR Merged into My Repo:** [Вставьте ссылку на слияние Pull Request напарника]
-* **My PR Merged into Partner's Repo:** [Вставьте ссылку на ваш слитый Pull Request в репозиторий напарника]
+* **Partner PR Merged into My Repo:** (https://github.com/vistula-team-project-73959/vistula-task-manager/pull/2)
